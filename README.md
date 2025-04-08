@@ -1,6 +1,5 @@
 # FinCluster
 Segmenting Financial Customers with KMeans and Visual Analytics using python and to visually represent the data in powerBI.
-Absolutely! Here's a solid, professional, and well-formatted `README.md` content you can use for your **Customer Segmentation for Financial Products** project.
 
 ---
 
